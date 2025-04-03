@@ -1,1 +1,1 @@
-https://kunishy.github.io/novatera/
+demo:　https://kunishy.github.io/novatera/
